@@ -1,0 +1,51 @@
+
+h1{
+    color:crimson;
+}
+.subtitle{
+    color:royalblue;
+}
+body{
+    background-color:rgb(81, 5, 100);
+}
+.menu{
+    background-color:orange ;
+    font-size: 27px;
+}
+.menu p {
+    color: rgb(255, 52, 79);
+    margin-left: 20px;
+}
+*{
+    margin:0
+}
+a{
+    text-decoration: none;
+}
+.Jogos img{
+    height: 330px;
+    margin-left: 30px;
+    margin-top: 100px;
+
+}
+.Jogos p{
+    color: rgb(85, 244, 255);
+}
+.Jogos{
+    text-align: center;
+    margin-bottom: -50px;
+}
+.EspacamentoDeBaixo {
+    height: 100px;
+}
+.textoDireto {
+    font-size: 40px;
+    margin-left: 40px;
+    margin-top: 100px;
+    color: #e945a0;
+}
+.bolinha {
+    border-radius: 300px;
+    width: 100px;
+    
+}
